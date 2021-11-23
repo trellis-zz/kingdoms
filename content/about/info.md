@@ -11,6 +11,6 @@ contact_info:
 type: ''
 
 ---
-## This is a blog about table top role-playing games.
+## This is a blog about tabletop role-playing games.
 
-## To get started, import this site into Forestry or checkout the repository [here](https://github.com/kendallstrautman/starter-blog-hugo "forestry starter blog hugo").
+## I focus on Yoon-Suin, Whitehack, and the tricks that bring the game to life.
