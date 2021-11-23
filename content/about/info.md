@@ -13,4 +13,4 @@ type: ''
 ---
 ## Hello. My name is Tri.
 
-This is where I write about tabletop role-playing games. I'm a fan of the OSR, so you'll see a lot about Whitehack ruleset and the Yoon-Suin campaign setting.
+This is where I write about tabletop role-playing games. I'll write about the Whitehack ruleset and the Yoon-Suin campaign setting, two gems from the Old School Renaissance. 
