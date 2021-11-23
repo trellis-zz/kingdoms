@@ -11,6 +11,8 @@ contact_info:
 type: ''
 
 ---
+## Hello. My name is Tri.
+
 ## This is a blog about tabletop role-playing games.
 
 ## I focus on Yoon-Suin, Whitehack, and the tricks that bring games to life.
