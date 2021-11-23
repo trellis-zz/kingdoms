@@ -13,6 +13,4 @@ type: ''
 ---
 ## Hello. My name is Tri.
 
-This is where I write about things I like. I mainly tabletop role-playing games.
-
-## I focus on Yoon-Suin, Whitehack, and the tricks that bring games to life.
+This is where I write about tabletop role-playing games. I'm a fan of the OSR, so you'll see a lot about Whitehack ruleset and the Yoon-Suin campaign setting.
