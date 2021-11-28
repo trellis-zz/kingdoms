@@ -7,4 +7,4 @@ title = "My goals for this blog"
 type = "blog"
 
 +++
-I plan to run a tabletop role-playing campaign set in the lands of Yoon-Suin.
+I plan to run a tabletop role-playing campaign set in the lands of Yoon-Suin. 
