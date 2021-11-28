@@ -8,3 +8,12 @@ type = "blog"
 
 +++
 I plan to run a tabletop role-playing campaign set in the lands of Yoon-Suin. 
+
+* hello
+* goodbye
+
+Myrtle, my _dearest_ thing. 
+
+## Hello
+
+What we want from a game. 
